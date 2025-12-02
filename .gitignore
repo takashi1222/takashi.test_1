@@ -1,0 +1,5 @@
+# macOS files
+.DS_Store
+
+# Optional: If you want to ignore all of them recursively
+# **/.DS_Store
